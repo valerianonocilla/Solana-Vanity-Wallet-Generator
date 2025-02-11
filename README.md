@@ -11,7 +11,7 @@ This script generates Solana wallets with a specified prefix, using multiprocess
 
 ## Installation
 
-1.  Clone: `git clone [YOUR_REPOSITORY_URL]` and `cd [REPOSITORY_DIRECTORY]`
+1.  Clone: `git clone https://github.com/valerianonocilla/Solana-Vanity-Wallet-Generator.git and `cd [REPOSITORY_DIRECTORY]`
 2.  Create virtual environment (recommended): `python -m venv venv`
 3.  Activate virtual environment:
     *   **Windows:** `venv\Scripts\activate`
